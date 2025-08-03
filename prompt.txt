@@ -1,0 +1,4 @@
+Create an HTML + JAVASCRIPT game using kaboon.js
+where a player can move left/right and jump on
+platforms. use simple square shapes instead of sprites.
+show me the full code of index.htlm. 
